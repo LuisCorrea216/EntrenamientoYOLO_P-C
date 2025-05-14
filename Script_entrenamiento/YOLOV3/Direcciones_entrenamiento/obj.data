@@ -1,6 +1,0 @@
-classes=1
-train=/content/darknet/train.txt
-valid=/content/darknet/val.txt
-names=/content/darknet/obj.names
-backup=/content/darknet/backup
-results=/content/darknet/backup

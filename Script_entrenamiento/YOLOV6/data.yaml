@@ -1,0 +1,10 @@
+data_yaml = 
+train contentdriveMyDriveINVESTIGACIÓN UAMESTACIÓN DE MONITOREOdatasettrain
+val contentdriveMyDriveINVESTIGACIÓN UAMESTACIÓN DE MONITOREOdatasetval
+
+nc 1
+names [0]
+
+
+with open('data.yaml', 'w') as f
+    f.write(data_yaml)
